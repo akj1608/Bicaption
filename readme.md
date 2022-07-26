@@ -1,6 +1,6 @@
 # BiCaption 
 ## Video Description : 
-https://www.youtube.com/watch?v=Gl-VWwKcE7U&t=51s&ab_channel=Abhishek
+https://youtu.be/Gl-VWwKcE7U
 
 
 ## Problem Statement
